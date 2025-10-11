@@ -1,0 +1,24 @@
+{
+  "name": "EC Icons",
+  "description": "Xㅤ",
+  "icons": [
+    {"name": "appleintelligence", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/appleintelligence.png"},
+    {"name": "maoxiongmx", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/maoxiongmx.png"},
+    {"name": "peiqian", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/peiqian.png"},
+    {"name": "yunhaioceancloud", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/yunhaioceancloud.png"},
+    {"name": "qidianzhanstart", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/qidianzhanstart.png"},
+    {"name": "qidianzhangongfei", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/qidianzhangongfei.png"},
+    {"name": "lilyemby", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/lilyemby.png"},
+    {"name": "rujing", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/rujing.png"},
+    {"name": "linjing", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/linjing.png"},
+    {"name": "sntp", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/sntp.png"},
+    {"name": "misty", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/misty.png"},
+    {"name": "youno", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/youno.png"},
+    {"name": "yuebing", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/yuebing.png"},
+    {"name": "msky", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/msky.png"},
+    {"name": "zox", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/zox.png"},
+    {"name": "feiniufatbeef", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/feiniufatbeef.png"},
+    {"name": "liulimen", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/liulimen.png"},
+    {"name": "qinlinkaimen", "url": "https://raw.githubusercontent.com/Ericorsa/Icons/refs/heads/main/qinlinkaimen.png"}
+  ]
+}
